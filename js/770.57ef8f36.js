@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkmonstorm_fe"]=self["webpackChunkmonstorm_fe"]||[]).push([[770],{7770:(e,n,r)=>{r.r(n),r.d(n,{default:()=>c});var t=r(3673);function s(e,n,r,s,o,u){const a=(0,t.up)("router-view");return(0,t.wg)(),(0,t.j4)(a)}const o={name:"CustomerMain"};var u=r(4260);const a=(0,u.Z)(o,[["render",s]]),c=a}}]);
